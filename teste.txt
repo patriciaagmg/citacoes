@@ -1,1 +1,2 @@
 Testando o git
+Alterando o arquivo e testando o commit
